@@ -36,7 +36,7 @@ public class Pow {
         }
       }
       else {
-        System.out.println(x + " raised the power of " + y + " equals to " + num);
+        System.out.println(x + " raised to the power of " + y + " equals to " + num);
       }
     }
     else {
